@@ -15,7 +15,7 @@ align-items: center;
 `
 
 export const Img = styled.img ` 
-height: 15vh;
+height: 16vh;
 `
 
 export const SegundaSection = styled.section`
